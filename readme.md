@@ -26,11 +26,7 @@ Go to [FindMeHome](https://www.findmehome.xyz/) for live demo of project.
 
 ## Got Questions
 
-<<<<<<< HEAD
 Ping me on [Twitter](https://twitter.com/_varunverma)
-=======
-Ping me on[Twitter](https://twitter.com/_varunverma)
->>>>>>> 99cf855cbb16638cd5cdf7bfc972c1a1c73f5697
 
 
 
