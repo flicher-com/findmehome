@@ -1,27 +1,33 @@
-# Laravel PHP Framework
+# FindMeHome Open Source Laravel Project
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+FindMeHome is an open source Project. 
+
+Find rooms where ever you go, anytime, at any cost.
+
+All we wish is to make life easier for people who want to share their space and for people who are new to the state and want a place to stay. We connect an owner to the tenant and vice versa.
+
+Laravel Framework is used to build FindMeHome
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
-
-Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
 
 ## Official Documentation
 
 Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
 
-## Contributing
+## Official Website
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
+Go to [FindMeHome](https://www.findmehome.xyz/) for live demo of project.
 
-## Security Vulnerabilities
+## Social Profiles
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
+[Facebook](https://www.findmehome.xyz/)
+[Google](https://plus.google.com/b/117595236135368710066/117595236135368710066?hl=en)
+[Twitter](https://twitter.com/_findmehome)
 
-## License
+## Got Questions
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+Ping me on[Twitter](https://twitter.com/_varunverma)
+
+
+
+
